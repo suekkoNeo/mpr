@@ -1,0 +1,4 @@
+.python-version
+*.mc2
+.vscode
+mcx

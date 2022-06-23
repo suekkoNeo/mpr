@@ -1,4 +1,5 @@
 .python-version
 *.mc2
 .vscode
-mcx
+json
+result_png
